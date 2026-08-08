@@ -1,0 +1,99 @@
+# 3b Turkic Europe
+- Goals
+	- A closer look at the Turkic language family
+	- L-Turkic (Hunnic? Bulgar, and modern Chuvash) 
+		- Went west earlier with the Huns
+		- Located in the Middle Volga
+	- S-Turkic (all other modern Turkic languages) 
+		- Decends from the Blue Turks
+	- Periods of Turkic history
+	- Modern distribution of Turkic and Mongolic (Kalmyk) peoples in European Russia today
+## L-Turkic
+- Probably included the Huns and ancient Bulgars.
+	- The Huns were the first East asian peoples to enter Europe
+- Today it is only survived by Chuvash in the Volga river region
+- The L-speaking Bulgars gave their name to Bulgaria but their language was replaced by a Slavic language that is called Bulagrian today
+## S-Turkic
+- The founding S-Turks were the Blue Turks and their empire in the 6th century
+- The First Turk Khaganate in 552CE was the first to unite the steppes
+	- Before the 550s-530s the proto Turks were in the Altai region and were the servants of (probably) ancient Mongols called the Juan-Juan or Rouran who controlled the eastern steppes
+		- They made weapons for the Mongols
+		- The Mongols took this area from the Xiongnu
+	- In 535CE #timeline there was a massive volcanic eruptions probably from Krakatoa that altered the global climate for a generation The steppes experienced a prolonged drought that favored the tribes of the forest-steppe zone and helped to destroy the Huns, Scythians, early Mongols This was the start of the dark ages
+		- This benefitted the Slavs as they were in the forest, the Turks because they were in the forest-steppes, and the Arabs 
+- Although bothe the Turk Khagangates fell apart by 744 CE #timeline there were many successor Turkic states that covered large areas of either the eastern or western steppes
+- A succession of Turkic tribal confederations dominated the western steppes between the Khagangates and Chinggis Khan’s Mongols the **Khazar, Pecheneg, and Kipchak**
+- **Khazats** 
+	- First S-Turks to dominate the western steppes, did a lot of trade and settled down, stopped being raiders
+	- First trading empire on the Western steppe
+	- Mostly between the Black and Capian sea and north of there, included Kiev
+	- Made peace with Byzantines and other neighbors
+	- Their existance served as a bottle neck preventing the Turks on the steppes from invading Europe
+		- Their existance also prevented the spread of the Arabs and Islam into Europe
+			- The Bulgars were converted to Islam but that was by traders through the Caspian sea
+		- This bottle neck helped the Slavic tribes to grow as they weren't being invadeed
+	- In the 10th Century the Khazar converted from Tengriism/shamanism to Judaism, which they were exposed to by refuges from the holy Roman empire
+	- *Kievan Rus* was the warior who defeated the Khazars, This removed the bottle neck and eventually led to the Mongols entrance to Europe and following conquering
+- **Kipchak Khagnate**
+	- 1237-1502 #timeline part of the mongol empire
+	- Dominated the western steppes from 1054-1236 #timeline 
+	- Were renamed to Tatars by the Mongols who conquered them 
+	- In 1236-1240 themongols conquered both the Russians and Kipchak Turks building an empire called the Golden Horde #timeline 
+		- Horde means the royal tent or a group of nomads
+		- In 1257 the Golden Horde converted to Sunni Islam #timeline 
+		- Muscovite Russia was ruled by Muslim Khansy for over 200 years
+			- They were introduced to Islam by trade routes
+			- There were already Turks further east that had converted to Islam
+		- But the Mongol rulers and their Turkic Tatar subjects let the Slavs they conquered remain Orthodox Christian
+	- This large population of Turkic speakers makes the Mongols eventually speak Turkic and become known as Tatars
+	- Tatars and Mongols continued to rule the Crimea until 1783 #timeline when it was conquered by Catherine the Great
+		- Crimea was a very powerful Khagnate (successor of the Golden Horde) it was the last one to survive, in part because it was supported by the Ottoman Empire (Because they were both Sunni Islam)
+		- Crimea and Kremlin both derive from an old Mongol word meaning fortress wall
+		- Under the Tsars the Tatars were pushed inland as the Russian elete populated Crimea
+		- In 1944 Stalin ordered the entire population of Crimean Tatars along with the Kalyk Chechens and several other minorities,, to be arrested and sent to Siberia or Central Asia #timeline 
+- The period of 1240 to 1480 is called the Mongol yoke (also called Tatar-Mongol yoke or Tatar yoke) in Russian history and it was a period of time where the Mongols and Turkic Tatar were heavily taxing the Slavic Russians #timeline 
+- In 1328 Ivan the First prince of Moscow convinced the Mongol Khan Uzbek to make him Grand prince of Vladimir, even through Michael of Tver had seniority #timeline
+	- Through this he positioned himself as the Tax collector for them and leveraged corruption
+- By 1480 the Moscow princes stopped paying taxes to the Golden Horde, which by 1505 broke up into smaller successor states #timeline
+	- In the 1550s Ivan IV conquered several golden horde successor states the Khagnate of Astrakhan Kazan and Sibir #timeline 
+- Tatars is the term for Turkic speakers in Europe (the term only sees use beginning in the 13th century)
+	- THe word Tatar sounds like Tartarus and because the constant raiding of Europe the Tatar were thought of as the devil’s horsemen from hell, this is where it became Tartar instead of Tatar
+- Mongol, Tatar, or Tartar
+	- Mongol is an adjective or noun but is usaually used for the Middle ages
+	- When it comes to the Golden Horde, the Mongols were a minority most people were Turkic speaking descendants of Kipchaks who joined the
+	- The Turkic speakers became known as Tatar after an early Mongolic tribe north of China that was defeated and absorbed by Chinggis Khan
+- -stan is a Farsi suffix that means countary
+## Turkic groups in the Middle Volga
+- Chuvash
+	- L-Turkish Decends from Middle age Islamic Volga Bulgars
+		- Volga Bulgars were the North most Islamic peoples
+	- Volga Bulgars were destroyed by the Mongols in 1236 #timeline 
+	- The Chuvash people were Uralic people that took up the L-Turkish language they were probably subjects of the Volga Bulgars who adopted their language
+	- Modern Chuvash are Orthodox Christians because they were converted when conquered by the Russians
+- Tatars and Bashkirs
+	- Close cousins both descended from the Kipchak Turks (S-Turks) in the Golden Horde
+	- They are Sunni Muslim because of their connecction to the Golden horde
+	- The Tatars are the most successful because they had good relationships with the Russians as they were farmers at the time, the Bashkirs were still mostly nomadic because of the area they were living in and this caused them to be less accepting of the Russians leading to a worse relationship and more fighting
+		- Bashkirs frought the Russians most fiercely from the 1600s to 1800s and their population suffered as a result
+			- Comparison to the Lakota vs the USA
+	- Bashkirs partly descend from Hungarians who never left the steppes,
+		- Their DNA is more Uralic and Indo0European rather than Turkic, on the steppes, they became Turkicized adopting the language
+	- Emeshe and the Turul bird is a Hungarian Myth related to Arpad the founder of Hungary this myth is also shared by the Bashkirs
+	- 
+- Russian Republics elect their own president but their foreign policy is bound to Russia
+## Kalmyk (The one Mongol Republic in European Russia)
+- No Mongol speaking groups from the Golden Horde survive in Europe, But Buddhist Kalmyk Mongols fleeing China arrived 200 years after the end of the Mongol yoke and are still there #timeline 
+- The Kalmyk Mongols were exiled by Stalin but the survivors returned in the 1950s after the death of Stalin #timeline unlike the Crimean Tatars
+	- This is probably because their land wasn’t as nice
+- They live in the Kalmyk Republic on the North West end of the Caspian sea
+- Vladimir Lenin was part Kalmyk Mongol on his father’s side
+## Similarities between Turkic and Mongol people
+- Wolf ancestor who mated with a female deer
+- Pastoral lifestyle (From Scythians)
+- Decimal system of military organization (from Xiongnu)
+- Khan as the name of patriarchal leader (Turkic word adopted by Mongols)
+- Tengriism and Shamanism (before Western Turks converted to Sunni islam)
+- Languages with many mutually borrowed words and grammar based on adding strings of suffixes to roots
+# Assignments
+#todo 
+- [ ] 

@@ -1,0 +1,915 @@
+## Chapter 1 Intro
+Civilization expresses quality and a way of life
+- Three attributes of a civilization, common culture, a complex social system, it pertains to a large geographical area
+	- The racial thory of Indian Civilization 
+		- Indain Civilization came int being through a clash amd mixture of a light'-skinned race that was civilized and a dark-skinned, barbarous race
+		- now a non accepted idea, since 1924 when evidence of the Indus Civilization was identified #timeline 
+	- 3 different groups came together to make Indian Civilization as seen by the three language families, Indo-Aryan, Dravidian, and Munda
+	- Indo-Aryan family includes Hindi and Urdo which are effectively two dialects of a single language
+		- Hindi is written in Devangari and Urdu is written in a modified version of Arabo-Persian script, Urdu also has a large ammount of Persian and Arabic loan words
+		- Hindi is typically used by Hindus and Urdu is typically used by Muslims
+		- There are other Indo-Arayan languages that are named corresponding to their region
+		- All Indo-Aryan languages are decedants of Sanskrit, the language that was brought to India by the Arya in around 1400BCE #timeline 
+			- The sacred books of Hinduism are written in Sanskrit
+	- Dravidian and Munda language families were already established in India before the Sanskrit speakers arrived
+	- The major dravidian languages are Tamil, Telugu,, Kannada, and Malayallam although there are about 20 total languages within the family. Most of them are in the southern part of the continent as the Sanskrit speakers took over the north.
+		- This relationship means that the Sanskrit languages have a decent amount of Dravidian languages
+	- It’s not clear where Dravidian came from, it was either Finno-Ugric or Elamite (ancient southwestern Iran) but it definitely predates Sanskrit in India and entered from the west or northwest
+	- Munda is a family related to Austroasiatic languages of Assam and Indo-0China and likely entered India from the east, also before Sanskrit. Munda languages are spoken by Tribal peoples of central and east central India
+	- Kinship systems
+		- North indian rules have a genearal idea of you need to marry a stranger
+		- Dravidian kinship has a preference for marriage between cross cousins
+		- Munda kinship is different from the other two 
+	- **India**
+	-  Inda should be looked at as a landscape in a relation to the society, not ast a physical entity or particular society. its just an environment in which stuff happens
+	- Pakistan and the republic of India were created in 1947 #timeline 
+	- Ceylon (Shri Lanka) was given independence from Britain in 1948, the Maldives in 1965 and Bangladesh broke away from Pakistan in 1971 #timeline 
+	- Nepal considered itself the last Hindu kingdom before it became a republic in 2008 #timeline 
+	- British rule began in the 1760s #timeline 
+	- *India* comes from the Sanskrit word for River
+	- The map of Indian Civilization can be divided into 3 parts
+		- The peninsula, called the Deccan
+			- A block of granite that is very old and on the plate that is creating the Himalayas. 
+			- It’s tilted towards the southeast 
+			- has hilly ridges parallel to the coast that are called the Eastern and Western Ghats
+			- The coastal areas are well watered by the monsoon but the interior is very dry in the summer so Agriculture tends to concentrate on the coasts
+			- Sri Lanka lies 40kmn off the souther coast
+		- The Himalayan Mountains
+			- To the west of the Indus River there are smaller mountain ranges called Kirthar and Suleiman, they have more defined famous passes over them
+		- The Indo-Gangetic Plain
+			- Made of the basins of the Indus and Ganga (Ganges) as well as the Brahmaputra from the east
+			- The Indus valley makes up all of Pakistan and part of the Republic of India
+				- The upper Indus and its tributaries are called Punjab “The five rivers”
+			- The Ganga and it’s twin the Yamuna lie on either side of the Doab “two rivers” the origin point of North Indian empires, and where Delhi is
+			- The mouths of the Ganga and Brahmaputra are the reason eastern India has such rich agriculture
+			- The plain is formed between the Deccan block and the Himalayn range and has incredibly deap alluvium soil
+				- This lack of bedrock means there are few stone buildings in this area
+				- Because the rivers are fed by the Mountains this area is much less reliant on the Monsoon
+	- The southwest Monsoon comes from the indian ocean and goes northeast during summer,
+		- There is a smaller monsoon in the upper Indus Valley during the winter when the convection center goes back towards the equator
+	- Indus Valley civilization was based on wheat and barley.
+	- 
+Rough chronology #timeline 
+- 2500 BCE Beginnings of Indian civilization
+- 1500 BCE the Vedic age
+- 500 BCE New religions and empires
+- 320 CE The classical age
+- 1200 CE Turks and Mughals
+	- Babar was the founder of Mughal dynasty 1526
+- 1760 CE British rule
+- 1947 CE Formation of nation states
+## Chapter 2 Beginnings of Indian Civilization
+- Indus south west Ganga flowing south east make the plains that Pakistan north India and Bangladesh live in
+- Population highest in West Bengal and in The Bangladesh delta of the Brahmaputra River 1000 people/sqkm
+	- This drops as you go up the river
+- Indus valley is two parts 
+	- the Punjab (land of five rivers, Jhelum, Chenab, Ravi, Sutlej, Beas) all snow fed rivers, gets the winter monsoon  and some of the summer monsoon (2 growing seasons)
+	- Sindh, named after the river gets no monsoons (13 cm rain yearly) gets extremely hot 120°f in the summer
+	- The salinity of the soil is very high in places, so stuff really dosent like to grow
+	- Thus has the lowest population density 
+	- Occasionally the Indus will flood and make new sil
+		- Less predictable than the Nile but twice as much new soil
+	- This flood allows the growing of wheat, barley and millet
+### Mohenjo-Daro and Harappa
+- Mohenjo-Daro is from the third and second millennia BCE
+- Harappa is near the Ravi River in Punjab
+- They both share 3 main elements
+	- a lower city, that wasn’t walled and is divided into city blocks by major avenues
+	- They both have a raised mound to the west of the lower city
+	- A granary complex or warehouse where the old river would have been
+- The Lower City
+	- Divided by major avenues 10m wide running in the cardinal directions
+	- blocks were 350x250m and cut up by smaller angled lanes
+	- Building had blank brick walls, not muych for windows and doors, but they were likely plastered
+	- Some were multi leveled, and they had toilets, with seats meaning public sanitation
+	- Brick manhole covers for public drains, soak pits for sewage and rubbish shutes in houses that emptied to bins
+	- Public wells
+	- True, planned, citites
+- The Granaries
+	- At Harappa in the northwest sector
+		- barrack building near the milling platforms of twelve graineries
+		- Grain was ground by pestle
+		- Grain was brought by river likely as tax or tribute
+	- At Mohenjo-Daro
+		- Just one granery that was larger than all of the ones in Harappa it was in the citadel rather than lower city
+- The Raised Mound
+	- at Harappa
+		- Rests on a platform of mud and brick rising 10m
+		- massive wall around it
+		- Entrance to the north secondary egateway to the west
+		- Was enclosed in the shape of a parallelogram ~350-200m 
+	- At Mohenjo-daro
+		- Not really excavated beyond enough to show it’s similar
+		- Besides the granery there are 3 other structures
+		- The great bath 2.5m deep and 12x7m made of bricks and tar, it has a drain in the corner and steps into it
+			- Its surrounded on three sides by small changing rooms or cloisters
+			- Ritual bathing is a central concept in historic Hinduism
+		- the college
+			- Northeast of the bath
+			- surrounds a 10x10m courtyard
+			- speculated that it housed a college of priests
+		- The assembly hall
+			- southern end of the complex
+			- nearly 30x30m with four rows of five brick piers. 
+	- The raised mound was obviously multifunctional, possibly religious possibly civic
+		- It may have also served as a citadel if the city were attacked. 
+		- It was the only walled part of the city
+- Other Indus Sites
+	- They spread from the BAsin of the Ganga to the arabian sea all along the Pakistani and Indian seabord
+	- The mostly widely separated settlements are more than 1600km apart
+	- Sortugai is a remote Harappan site in northern Afghanistan
+	- These places give evidence of a stratified society with division of labor an agricultural surplus of a large region 
+### Economy, Technology Writing
+- We dont know much about the farming but there was probably a lot of them
+	- country people outnumber city dwellers by 4:1 in modern india
+- We know they needed irrigation but we dont know how they did it
+- Principal crops were wheat and barley (possibly domesticated here) and millets (from Africa)
+- Bits of cotton have been preserved, its native to this area 
+	- Herodotus 1000 years after the Indus Civilization wrote in awe about the cooton of Sindh
+	- Animals were cattle, sheep, goats, camel, donkey but no horse or elephant
+	- Bullock carts which are still used, were likely the main form of rural transport
+- Tools
+	- Still using stone mostly but have rare metal tools made of coper or bronze with a little tin, copyed from stone
+- Crafts
+	- Mirrors an dpins of copper, cosmetic boxes of steatite, many beads and sculpture of stone, bronze and terracotta
+	- Some of these materials would have had to be gotten through trade with regions like Persia Afghanistan and eastern India
+	- Indus seals and other items were found in Mesopotamia
+		- Indus Civilization was known to the Sumerians and Akkadians under the name Meluhha
+		- sites in southeastern Iran suggest that Elamite cities may have traded between Mesopotamia and the Indus
+	- the seals are interesting because of the writing
+		- They usually have an animal and a short script.
+		- The script has not been deciphered yet, it contains more than 400 signs meaning it’s not just alphabetic or syllabic
+			- Some are clearly pictographic and others are modifies or numbers
+			- Best guess is it was a Dravidian language but not sure
+### Religion
+- cannot be assumed to be ancient Hinduism but certain objects seem to suggest that parts of the religion may be ancestral to parts of historic Hinduism
+- There are figurines, cheaply made of terracotta, some think they are votive figures like mother goddes figures, possible predecessors to the wife of Shiva. It’s also possible they were just toys
+- The imagery on the seals could also be representations of deities because of their non natural form (anthropomorphic, composite, theriomorphic) such as one called by John Marshall “Proto-Shiva” because of the animals surrounding him, the horned head dress and maybe 3 faces
+	- His pose suggests the postures of yoga as well
+- Stone artifacts interpreted as representations of the phallus and vulva, posibly associated with the linga sacred to Shiva in modern Hinduism
+- The existince of themples has not been proven yet but the religion being were shiva comes from is a reasonable hypothesis
+### Origin and Destiny of the Indus Civilization
+- Radiocarbon had placed the mature phase of the Indus between 2300 and 1700 BCE which was pushed further back to 2500 and 1900 BCE due to recalibration
+	- This makes it one of the oldest 3 civilizations in the Old World with the Nile and Tigris-Euphrates civilizations
+		- Mesopotamia started in 3100 BCE
+	- The Indus remains resemble, generally, Mesopotamia, including the seals, central granaries, and the lower city/raised mound set up
+		- The grid of streets is new to Indus showing they were planned
+	- The techniques were similar to Mesopotamia but the results are different in style so it’s unlikely that Mesopotamians made the Indus Cities
+	- Most likely it was bronze age peasants from the hills of Baluchistan west of the lower Indus in Pakistan
+		- The pottery types show similarities to those in Iran nad some of them predate the Indus Civilization by 1000 years or more
+		- Excavations at Mehrgah in Pakistan show agriculture was practiced in the region 3000 years before the Indus cities were built
+			- These societies were all small hill villages subsisting on barley, wheat, and livetosck
+			- They used stone check dams to water their fields
+			- Mano and matate to grind their grains
+			- The main differentiation was in the pottery style
+		- Gregory Possehl pointed out that the Indus is in the same arid zone domestications first occurred, and may have domesticated these crops and livestock themselves rather than getting them from Western Asia (pg29)
+### The End and Aftermath of the Indus Civilization
+- came to an end around 1900 BCE #timeline 
+- Many of the town carried on untill the iron age (1000 BCE) bu tcity life was at an end
+- The Indus Script went extinct and writing had to be reinvented around the time of Ashoka 
+- The Indus cities appeared in 2500 BCE meaning they lasted 600 years, not quite as long as Egypt and Mesopotamia
+- We dont know why the Indus cities depopulated but there are many theories (flood, invasion, desiccation, loss of morale)
+- In Sindh the Indus’s flooding was a danger to the city
+	- parts of Mohenjo-Daro’s lower city were flooded and rebuilt at least 3 times
+- R. L. Raikes, (hydrologist) believes that it was a catastrophic flood that caused the abandonment of Mohenjo-DAro
+	- Indus sites along the Arabian sea lie 40-50 km inland, this suggests that they were originally costal but separated by a major coastal uplifing Raikes beleives that this would have reversed the flow of the lower Indus flooding the whole plain
+	- Whole cities don’t parish at once and the Indus sites in the Punjab couldn’t have been effected even if the southern cities of Sindh were
+- Late strata of Harappa and other sites show evidence of squatters like the Jhukar culture
+- The appearance of copper or bronze shaft hoe axes coincides with the end of Indus habitation levels.
+- Mohenjo-Daro’s uppermost stratum showed skeletons of people wo died in the streets and houses, unburied in a way that strongly suggests violence
+- Sir Mortimer Wheeler says the early Aryans, because the Rig Veda speaks of the hundred walled forts of the Dasyus that Indra their warrior god destroyed
+	- Present evidence puts the end of the cities 400 years before the Aryan arrival
+- Ried Bryson (meteorologist) believes that the Indus people wore out their environment, creating a dust bowl that’s  now the desert of Rajasthan to the east of Sindh
+	- Cealry Sindh once supported more, larger fauna like the Rhino, Tiger and maybe Elephant. which are all found in the floodplain of Brahmaputra River in Assam today
+	- However this does not account for the disappearance of the upper Indus cities in the Punjab
+- Each of these theories implies the Indus people couldn’t adapt, even though they had rebuilt from flods, and attacks and spread agriculture far.
+- The question that’s more important than how did they end is what continuities there may be between the Indus Civilization and later historic India, religious  or other
+- Some scholars think it was created by the Sanskrit speaking Aryans of the Veda, whose settlements centered on the Saraswati River, the site of many Indus sites
+	- This theory is is difficult because of the lack of horses in Indus cities
+- Because the Aryans are the newest addition the the Indian subcontinent, their attributions to the culture is the most identifiable
+## Chapter 3 The Vedic Age
+The Rig Veda. Indo-European, Indo-Iranian, Indo-Aryan. The Later Veda. The Epics: Mahabharata and Ramayana
+### The Rig Veda
+- Oldest work of Aryan literature
+- collection of 1028 hymns arranged in 10 sections
+	- The core were private liturgical collections that were combined
+	- Another section is hymns to Soma
+	- the first and last sections are the last addition and the most speculative/philosophical hymns
+- Analysis starts with myth and religion then gueses from there
+#### The Gods of the Rig Veda
+- Devas “shining ones” mostly associated with the sky
+	- Dyanus Pitar sky father in union with mother earth
+	- Varuna is the head god, given the position by Dyanus
+		- Ethical, thousand eyes the wrongdoer cannot hope to evade
+	- Prajapati, Lord of Creatures, Primordial Man replaces Varuna
+		- Creates the world from his body
+	- Mitra: friend of the good and garantor
+	- Agni (fire): Eats sacrifices and gives offerings from humans to the gods
+	- Soma: named after a hallucinogenic drink
+	- Yama: First to die watches the dead in the World of the Fathers
+	- Indra is the hero and king of Devas, weapon is a thunderbolt
+		- Kills the demon Vritra releasing the water of life
+	- Asuras (demons)
+	- Ushas lady of the dawn and Vach or speech are the only really notable goddesses
+	- Rudra, the Howler: later made part of Shiva 
+	- Vishnu: dwarf who wins earth, air and sky from the demons
+#### Religion of the Rig Veda
+- Three-tiered universe +realm of order (rita) is Varuna’s realm
+	- like the laws of nature but with a moral side too
+- Aryans had a religion of Sacrifice to Agni no temples or images. 
+- The Fathers (ancestors) had to be fed by sacrifice
+#### Economy, Technology, Society
+- they were stock breeders and farmers, used chariots with spoked wheels
+- only lower classes did horseback riding
+- Main form of wealth was cattle
+	- Synonym for war was gavishti (desire for cattle)
+- had carpentry and weaving, as well as metallurgy
+- Semi pastoral no rock dwellings
+- Militaristic
+- Called indigenous people Dasyu or Dasa which became synonymous with slave
+- Farmed Barley and maybe wheat
+### Indo-European, Indo-Iranian, Indo-Aryan
+in order of scale from largest to smallest
+- all are language families stemming from Proto-Indo-European
+- Indo-Iranian is two branches one in Iran one in North India
+- Proto-Indo-Europeans were semi-pastoralists, they had carts and lived in semipermanent dwellings
+- Hittites first in second millenium (Hammurabi)
+- sixteenth centure BCE Kassites (Babylon)
+- Oldest Iranian Documents are in old Persian about Acheminid kings or Zoroaster much newer than the Rig Veda
+### The Later Veda
+- spread eastward from the Punjab
+	- Priests and princes of Kuru and Panchala are regarded as the pinnacle of orthodoxy
+		- Their region was the Delhi region or Middle Country
+	- They spread eastward towards the Ganga to Bengal before 500 BCE
+	- Others went SW from the middle Ganga to the west coast of Gujarat by 500 BCE 
+- Sacrifice expanded in scope and complexity increasing the literature we have making up the Veda
+- All major Brahmanas were likely made in the Middle Country of the Kuru and Panchala
+- Lore went in two directions mystical and scientific
+	- Aranyakas (forest treatises) and Upanishads (esoteric teachings) were the more mystical ones
+		- Most works in this group were finished by 600 BCE 
+	- Kalpa was a systematic science of ritual written down in sutras
+		- Had 4 divisions: 
+			- Grihya Sutra (rules for domestic ritual) 
+			- Shrauta Sutra (rules for higher rituals) 
+			- Shulva Sutra (Rulse for the fire altar and other accessories)
+			- Dharma Sutra (rules for Aryan behavior, the first law books)\Technical literature 
+			- as a whole is called Vedanga the “limbs” of the Veda
+		- Sutra translates to something that threads
+#### The Vedic Sacrifice
+- 3 movements
+	- Consecration of the sacrificer
+	- Ritual feast
+	- Deconsecration
+- The sacrificer had to be an adult married Aryan in the religion
+- 2 types of sacrifice with their own rules
+	- Grihya (domestic)
+		- Simple probably older, only needs one fire (the one in the house kindled at marriage)
+	- Shrauta (higher)
+		- Requires 3 fires and multiple preasts
+		- 3 major categories + special rites
+			- Calendrical rites of the lunar calendar
+			- Soma sacrifices making and drinking Soma
+			- Royal Consecration to establish a king’s rule
+				- Has a Horse Sacrifice
+		- Got kinda ridiculous 
+- At this point creation was made by the Cosmic Man (Purusha or Prajapati or Brahma) who sacrificed himself to himself with his body parts becoming the world
+#### The Family and Its Ancestors
+- family was a corporation owning property as a unit
+	- land would be divided amon sons after death of the patriarch
+- 5 Great Sacrifices daily honored Brahma, ancestors, gods, creatures and men
+- Shraddha was the rite to feed the Fathers
+- Coming of age ceremonies too
+- Marriage had to be with someone not closely related, but still in the religion
+	- Makes a boy a man because a wife is needed for house rituals
+	- threefold charater, 
+		- Gift of a daughter
+		- Initiation of the bride to the groom’s ffamily
+		- Sacrament for fulfillment of reliigous obligation
+#### The Tribe and Its Organization
+- Vedic tribes were made of Patrilineal extended families allied by marriage and common culture
+- Gotras were Brahmin patrilineal clans desceneded from the groups of sages who first “heard” the hymns of the Veda
+	- each one had it’s own hairstyle, dreass, and rituals
+	- They had to marry to a different Gotra
+- Not all were born equal
+	- Priests born of the mouth
+	- Warriors boirn of arms
+	- Herders, traders, farmers from the thighs
+	- Servants from the feet
+- They were tribal chiefdoms, mostly small groups that would unite for war
+- King and priests had a check and ballance going on
+- Aryan tribes fought eachother as often as non-Aryans
+- Rarely aimed to conquer because of the inflexible caste system
+### The Epics: Mahabharata and Ramayanaa
+- Performed by bards (suta) who were charioteers in battles and retold the stories they saw
+- Kushilava were traveling storytellers and singers, from village to village
+- The Epics are a literature of the Kshstariya (warrior) way of life retold by bards, then written as epics in Sanskrit
+- The Mahabharata
+	- about 100000 verses
+	- attributed to Vyasa but likely grew over time
+	- Tells of a struggle between cousins in the Bharata lineage, the Pandavas and Kauravas for succession
+		- Culminates in 18 days of battle between them
+- The Ramayana
+	- about 20000 verses
+	- attributed to Valmiki 
+	- Story of the perfect man King Rama who was exiled as a prince, the abduction of his wife Sita by the demon king Ravan and Rama’s victory and return to Ayodhya as it’s king
+- They are idealized not historical but part of a long tradition
+- Very important in India 
+## Chapter 4 New Religions, New Empires
+Religions of Renunciation, The Rise of Magadha, The Mauryas
+- The late Vedic texts Aranyakas and Upanishads move the theory of sacrifice away from the ritual towards philosophy
+- were written in the eastern kingdoms of the middle ganga region (Kosala, Kashi, Videha)
+- wealthy kings funded brahmin philosophical debate
+- Magadha another eastern state, became the strongest, although it was the least brahminized
+- Some eastern people adopted Jainism, Buddhism, and Ajivikism, this was becasue of the crisis Vedic civilization was undergoing
+- The crisis included the decline of the Kuru-Panchala kingdom and it’s dynasty
+- the new disperate kings were employing professional armies and using taxes 
+	- Criminal and contract law grew along with the new type of government
+- The new form of states, becasue of their organization, gradually absorbed other Vedic tribal states because they could benifit from conquest
+- “the great kings and heroes of the past, have abandoned their glory and passed to the next word…” a King in the Upanishads
+- There was an increase in seeing society as a human construction causing some to find peace through meditation
+	- Brahmins rose as advisors to the kings, as neither priests or warriors
+### Religions of Renunciation
+- through the speculation on sacrifice the idea of rebirth (samsara) came to be, along with the doctrine of Moral Causation (karma)
+- these doctrines pointed out the futility of the Vedic sacrifice for temporary gain and indicated a new idea of salvation, permanent release (moksha or nirvana)
+- The vedic idea of a past great age became the doctrine of the Four Ages (yugas). The idea that there are four ages in a cycle (Krita 4, Treta 3, Dvapara 2 and Kali 1) in each age dharma (religion or morality) declines by a quarter, people live shorter lives, and the world gets harder. once the cycle is completed it begins again with a new great age
+- The four doctrines: Rebirth, Moral Causation, Release, and the Four Ages, serve as the cornerstone of ancient Indian philosophy
+- The identity of the World-soul and the individual soul become the key to religious fulfillment, turning inwards away from the sacrifice
+### The Renouncers
+- asceticism in India goes back to the muni in the Rig Veda, a mute visionary.
+- In the eastern kingdoms of 6th century BCE ascetics gained popularity
+- The brahmin and kshatriya philosophers of the Aranyakas and Upanishads stuck with the Vedas but the ascetics (shramanas, renouncers of life) were hostile to the Veda, because they broke the cycles that Vedic religion relied on 
+	- A later maxim says the brahmin and shramana are like snake and mongoose, natural enemies.
+- Out of these new doctrines came many religions, three of which continued
+	- Ajivikism
+		- Survived about 2k years, went out in South India about 1400 CE
+		- Soul is guided by destiny (niyati) which is beyond human influence
+		- Founded by Maskarin Goshala who we know little of
+	- Jainism
+		- Spread all over India and Sri Lanka, but is now only in Gujarat on the west coast and Karnataka in the south
+		- irreducible plurality of living souls, dulled by matter, any deed perpetuates the bondage to the wheel of Rebirth so they cease to act. 
+		- Noninjury (ahimsa) to other beings is a doctrine that likely started with the Jains then spread to Buddhism and Hinduism
+		- Founded by Vardhamana the Mahavira (great hero) who was born from the princely class in Videha
+	- Buddhism 
+		- faded out except in the mountainous areas of India but spread to Afghanistan, Central Asia, East Asia, Sri Lanka and Southeast Asia
+		- selfish cravings (thirst, trishma) bind people to the wheel of Rebirth, desire should be renounced. 
+		- a middle ground between the 2 other religions and normal life
+		- Founded by Gautama the Buddha (Enlightened One) who was a prince of the Shakya tribe in Nepal, which was under the power of Kosala
+	- The success of these teachers in the eastern kingdoms during the 6th century stopped the spread of Vedic religion
+- These religions were helped by the trade and conquering kings
+	- Story of Anathapindaka who was a rich merchant who purchased land from Prince Jeta to give to Buddhist monks by covering the land with coins. 
+### The Rise of Magadha
+- Start of 5th Century BCE Kosala was the strongest state of north Inia, occupying the confluence of the Ganga and Yamuna
+	- The king Prasenajit had absorbed Kashi and several tribes, including the Shakyas, the tribe of the Buddha
+- To the east on the northern bank of the Ganga was Videha, held by a group of tribes including Vrijjis and Licchavis. 
+	- This group had no monarchs, authority was held by the warrior nobles from which the founder of Jainism was born
+- Magadha, a smaller state was on the south bank of the Ganga, and it’s sway extended east to Anga.
+	- Magadha’s king Ajatashatru ascended to the thrown by killing his father, he then had many wars with Kosala and Videha sucessfully conquering Videha
+		- Legend says that Ajatashatru’s minister pretended to seek refuge with the Vrijjis and then set them against each other with rumors weakening their confederacy
+	- With the capture of Videha the capital moved from Rajagriha (an inland site) to Pataliputra (a site on the Ganga, modern day Patna) 
+		- This capital served as a trade hub and locus of command for Magadha’s aggressions
+- Magadha continued to grow under a series of different rulers remembered for patricide, wealth, and obscure origins
+- The Four means, the circle of states and the four-limbed army
+	- the four means and the circle of states presume a king who wants to expand
+	- the four-limbed army (chaturanga) as an idea is a unified army made of foot soldiers, cavalry, chariots, and elephants. rather than being a collection of personal armies
+		- Chess is named after this idea, with the queen originally being a minister
+- 326 BCE #timeline the Nanda dynasty ruled Magadha which included much of North India to the north of the Indus basin
+	- That year Alexander of Macedon crossed the Indus
+		- He was greeted in Taxila with a Vedic fashioned feast, as Taxila was a center of Vedic learning 
+		- Alexander makes it to the Beas River in eastern Punjab before his army mutinies and he retreats
+		- Alexander dies in Babylon in 324 BCE #timeline and his impact in India quickly disappears
+- Shortly after *Alexander*’s death in ~321 BCE #timeline  *Chandragupta Maurya* takes the rule from the Nanda dynasty
+	- The Maurya takes advantage of the power vacuum *Alexander* made becoming friendly neighbors with the kingdom of Seleucus (a partitioned part of Alexander’s previous holdings)
+	- Seleucus gives Chandragupta a large tract of land that includes modern Afghanistan for 500 elephants sometime after Chandragupta conquered Babylon in 312 BCE #timeline and kept supplying Selucus with elephants 
+		- Antiochus III is an example of this trade
+		- Elephants were so important the Ptolemies of Egypt domesticated North African elephants
+	- *Chandragupta* was succeeded by *Bindusara* and many fragments of writing from Chandragupta’s India can still be found written by *Megasthene*, a Seleucid ambassador who also took many notes on elephant care
+		- The *Indika* was *Megasthene*’s book, it describes a large professional army with servants, government owned weapons, and a farming class detached from the military service
+			- He lists 7 hereditary occupational castes and praises India, also repeating stories for a 5th century book by Ctesias that tell of fantastic races from India
+			- His writings did much to make the Greek and European conception of India 
+			- This makes the First Indian civilization that we have an emic and etic view for
+- The Third Mauryan king Ashoka (268-231 BCE) #timeline  ruled the kingdom at its greatest extent
+	- Ruled all of the subcontineent apart from the southern tip and the western territories ceded by Seleucus
+	- We have many records of him because of inscriptions on rocks and pillars
+	- his empire was divided into at least four provinces, the rule of which were given to viceroys from the royal family. The area around the capital was likely under the direct rule of the emperor
+	- Royal highways connected the empire
+	- It had a massive army fed by the taxes of the empire
+- The Mauryan kings like the earlier kings preferred the nonbrahminical religions of renunciation
+	- Chandragupta was a patron of the Jains
+	- Two of the Mauryans were benefactors of the Ajivikas 
+	- Ashoka was a Buddhist
+		- The Kalinga war and the suffering it inflicted on noncombatants made him have a spiritual crisis
+		- This resulted in his dharma, a new policy focused on spiritual and physical welfare
+			- This policy was inscribed on many stones, mostly in the North Indian languages of the period (Prakrits) but also in Greek and Aramaic in the regions to the west
+		- Ashoka urged against wars of annexation seeking to end the world cycle, and encouraged the conversion of neighboring states to dharma
+		- His dharma included planting of shade trees and digging of wells along highways, planting medicinal herbs in his kingdom and his neighbors. he prohibited animal sacrifice and made the royal kitchen almost entirely meat free apart from two peacocks and a deer per day, but even those he promised to eventually stop.
+			- It also urged respect for brahmins, shramanas, parents, friends, and inferiors and an end to bitterness between sects. 
+			- He says he prefers persuasion to coercion but still threatens the forest tribes to repent or be killed
+## Chapter 5 Classical India
+The Formation of Classical Indian Civilization (187 BCE - 320 CE), The Classical Age (320-600 CE), Late Classical Indian Civilization (600-1000 CE) #timeline 
+- Classic is considered to be things that are **durable** models for generations to come
+- Classical forms start in the time between the Mauryan Empire and Gupta Empire
+- The Gupta Empire was the start of a stable pattern of large dynasty led regional kingdoms
+### The Formation of Classical Indian Civilization
+- Post-Mauryan
+- Vedic brahminism was revived but joined with Hinduism
+- Buddhism also evolved into the Great Vehicle (Mahayana) form
+- While classical Indian Civilization was forming there were many nomadic invasions from the northwest, growing indigenous kingdoms in the south, and, in the 1st century CE #timeline the Roman trade route with India
+- This is when Indian Civilization spreads out and it’s religions get to Central Asia, China and Southeast Asia
+- **The Shungas and the Indo-Greeks**
+	- in 187 BCE #timeline  ~50 years after the death of Ashoka *Pushyamitra Shunga*, who was the brahmin general of the Mauryas took over by a coup d’etat
+		- The Shunga dynasty lasted for a hundred years
+		- Was much smaller than the Mauryan empire only in the middle Gangetic basin and bits of Central India
+		- It was much less centralized, more of military rule over smaller local rulers
+			- Some had their own coinage
+	- *Pushyamitra* went back to Vedic sacrifice, performing the horse sacrifice twice
+		- Where the horse wanders become the territory of the horse’s owner, or they fight
+			- Comes from semi nomadic Vedic tribes
+	- Later Buddhist writers accused him of destroying many of *Ashoka*’s Buddhist monuments seeking infamy
+	- Buddhism was still patronized under the *Shungas*, and their feudatories. But the royal favor was back towards Brahminism
+		- The *Shuga* kings revived Vedic royal sacrifice but lent patronage and prestige to the newer Hindu god Vishnu
+		- This is the transition of brahaminical tradition towards theistic religion, which made it gain popularity
+	- 250 BCE #timeline *Diodontus*, a Greek satrap (governor) of Bactria (in modern day Afghanistan) revolted against the Seleucids
+		- Because of the distance and the invasions of *Parthians* from the north they gained independence
+		- By the death of *Antiochus III* in 187 BCE #timeline (around the same time as the Shunga coup) Seleucid power was steeply dropping
+	- Under *king Demetrius* the Greeks of Bactria invaded India and, according to legend, reached the walls of Patalipurta (Indian Capital in the lower Gangetic valley) before retreating to the Punjab
+		- The retreat was likely because of a revolt in Bactria by *Demetrius*’s general *Eucratides*
+	- By 2nd century BCE #timeline  *Demetrius*’s kingdom had split in two
+		- The Eastern Greek kingdom in the Punjab under *Menander* 
+		- The Western Greek kingdom of Bactria and the Kabul Valley
+	- further nomadic incursions into Iran forced the Western kingdom into the Punjab, isolating the Eastern kingdom
+	- The two Indo-Greek kingdoms eventually became hostile to each other and eventually fell to the nomads
+		- Western kingdom fell ~90 BCE #timeline 
+		- Eastern kingdom fell ~30 BCE #timeline 
+	- During the brief rule of the Greeks in the Indian northwest the Kings had to adapt to Indian culture
+		- *Menander* issued coins with Buddhist symbols and represented himself as a “savior” in Greek and Prakrit
+			- he is remembered by Buddhist literature as king *Milinda*, a philosopher king who was buried in a stupa 
+		- The more hostile Western Kingdom preferred Hindu symbolism and sent a Greek native of Taxila to the Shunga court as an ambassador, as they were both devotes of Vishnu
+			- This embassy is commemorated by an inscribed pillar in Central India bearing the image of the Garuda bird.
+			- Embassy was from *Heliodorus* to the Shunga king *Bhagabhadra*
+	- Because the Western Greek Kingdom shared a religion with the Shungas they were united against the Eastern Greek Kingdom
+	- The Greeks patronized Indian religion instead of Hellenistic religion because of reasons of state
+		- Hellenistic sculpture was established in the northwest but with Indian and Buddhist themes
+		- The hybrid Greco-Indian art of Gandhara is one of the few expressions of Hellenistic culture in the Indian culture area
+- **The Nomads**
+	- In the last decades of the Eastern Kingdom (1st century BCE #timeline )there were invasions from the Scythians and Parthians (called Shakas and Pahlavas by the Indians) from the northwest
+	- Parthians removed the Greeks from Taxila before the middle of the sentry, perhaps as an extension of the larger Parthian or Arsacid Empire of Iran but, Taxila was independent for over a hundred years
+	- In 2nd century BCE #timeline Chinese records show that warfare in Central Asia had driven a people called the Yuezhi to the borders of Bactria, from where they expelled the Scythians by the end of the century
+		- In the 1st century CE #timeline a clan of the Yuezhi, the Kushanas, established its hegemony over the rest and expanded into India
+		- By the end of the 1st century or start of the 2nd #timeline *Kanishka* greatest of the Kushana kings ruled the empire 
+			- the empire straddled the Hindu Kush, holding territory in Iran and India, going well into the Gangetic basin
+			- By the end of the 2nd century CE #timeline *Kanishka*’s line vanished with the start of the Sassanian Empire in 3rd century #timeline Iran
+	- In Western India Dynasties of Scythian extraction started in 1st century CE and lasted till the end of the 4th Century #timeline 
+		- These dynasties were ruled under the Iranian title of kshatrapa
+	- These events were the first in a cycle of invasions of India
+		- The peoples started as mounted nomads in Central Asia, then moved to military aggression in Iran, then in India
+		- This cycle repeated every ~500 years
+	- The first wave was the Iranian speakers, then in the 5th century #timeline it was the Hunas, probably speaking Turkish (relatives of the Huns)
+	- In 1000-1200 CE #timeline it was Muslim Turks from Afghanistan, that raided India, creating the Sultanate of Delhi.
+	- In the 15600s #timeline the Mughals started the largest (pre-European imperialism)  Indian empire
+	- Most of the nomad states would burn out quickly but the **Kushanas** and Western **Kshatrapas** managed to turn into hereditary monarchies powered by taxation
+		- They lacked the sills for taxation so they were likely helped by the Iranian and Indian elites who knew the skills
+		- The adoption of local religion helped to aid collaboration like this
+		- We can’t see the process of this in these two kingdoms, just the end result
+			- **Kushana**
+				- Kushana coinage shows images of Shiva and Buddha as well as various Iranian, Mesopotamian, and Roman deities
+				- *Kanishaka* is remembered in Buddhist legend as a benefactor of Mahayana Buddhism
+				- The Kushanas still retained the symbols of Central Asian identity, like their clothes, even though they were poorly adapted to North India
+			- **Kshatrapas**
+				- Ruled for 3 centuries cut off from Iran and Central Asia so they were more completely Indianized
+				- The first extensive Sanskrit inscription (150 CE) occurs in the reign of *Rudradaman*. the poet praises his horsemanship and archery as well as mastery of music, logic, poetry, and Sanskrit grammar. showing that kingship engaged with fine art
+	- Indian Civilization ended up borrowing very little from the Central Asians apart from their cavalry techniques, which ended chariot warfare
+		- This is why Vedic gods rode chariots but Hindu gods from this period ride on the backs of their animals
+	- Through the Central Asian’s patronage of the local religions, sciences, and poetry they helped the formation of Classical Indian culture. 
+		- They also provided the communication that allowed Indian culture and Buddhism to reach the Tarim basin (space north of the Tibetan plateau) and China beyond
+			- Legend says Buddhism arrived in China in 1st Century CE #timeline 
+- **South India and the Deccan (region)**
+	- Classical Indian Civilization spread from north to south but that gives a misleading view of how it happened
+	- Dravidian was once widely spoken in the north, we know this because of Dravidian words in early Sanskrit texts
+		- This means that Classical Indian Civilization was a fusion of many different linguistic and cultural groups
+	- We know Dravidian cultural patterns best from ancient Tamil literature of South India
+	- In the Tamil country three kingdoms have been established since the time of *Ashoka*, 
+		- Cheras (or Keralas), Pandyas, and Cholas from West to East
+		- Inscriptions from *Ashoka* make it clear that they were not part of *Ashoka*’s empire
+		- Ashoka did send them ambassadors of the dharma though
+	- The kings of Tamil patronized courtly literature roughly at the same time as Sanskrit courtly poetry
+		- This Tamil courtly literature is called the Sangam literature in reference to anthologies of Tamil poetry compiled by a sangam (a gathering of literary connoisseurs) in the Pandya kingdom of *Madurai* in the 2nd-4th century CE #timeline 
+		- Tolkappiyam, a grammar of Tamil was composed at about the same time the anthologies were gathered
+			- it includes a formal theory of poetics that established the conventions of the Sangam literature
+			- Sangam literature was a body of knowledge and conventions that was shared by poets, patrons, critics and refined folks of the warrior class
+		- The classical Tamil ars poetica recognized two types of poetry, private (aham) and public (puram) or love and heroic poetry and the poetry of war
+		- These poems hint at the beginning of seaborne luxury trade with the Greeks, making use of monsoon winds to sail to the Tamil kingdoms with Italian wine, red coral jewelry, and other rarities
+	- Tamil culture and religion was its own thing but was connected to the north
+		- there are references to the Mahabharata, the growing Indian kingship, the brahmins, Buddhist and Jain monks, and the many local gods that are eventually included in Hinduism
+	- The Deccan, under the lineage of kings called *Satavahana*, incorporated elements from the north and added to them
+		- Over their long rule the *Satavahanas* held large portions of western india, and often fought the **Western Kshatrapas**
+		- Their inscriptions and rock-cut monasteries (like the Karle Caves) show they favored Buddhism but they also supported other religions
+			- they also performed Vedic sacrifices
+		- Because they were in a region where Indo-Aryan and Dravidian languages intersected the *Satavahana* kings are associated with the **Katantra** a Sanskrit grammar for nonnative speakers
+			- They are also associated with the cultivation of courtly poetry in Prakit
+		- *Hala* one of the kings composed the Saptashati (Seven hundreds) a canonical anthology of courtly poetry in a Prakrit language called Maharashtri
+			- This led to Maharashtri being considered the ideal Prakrit language for classical poetry, specifically love poems
+	- In the island of Sri Lanka (Ceylon) the Immigration of the Indo-Aryan speaking Sinhalese and their kings converting to Buddhism as early of the Time of Ashoka led them into the orbit of ancient Indian Civilization early
+		- By the 1st century CE #timeline we hear of South Asian kingdoms that adopted Indian culture
+			- starting with the kingdom of Funan in the delta of the Mekong River (southern part of modern Cambodia and Vietnam)
+				- The Mekong makes the border of Laos and Thailand, It’s delta is near Modern Ho Chi Minh City
+- **Hinduism and Mahayana Buddhism**
+	- In the post-Mauryan period Indian religion took another turn
+		- Neither Vedic religion or the religions of renunciation were popular religions and now something fills that gap
+		- These religions emphasize a supreme deity, the adoration of the gods in shrines, and prayer which shows the belief that the grace of God is superior to the automatic justice of Moral Causation
+		- By the grace of a god, whether it’s Vishnu, Shiva or a deified Buddha, people can get better than they deserve, they can be released from the binding nature of their deeds. Thats why savior-gods are popular
+	- The **Bhagavad Gita** is a classic of devotional Hinduism, it presents it’s path as higher than the Vedic and ascetic religions
+		- Its a section from the Mahabharata
+		- Its a form of dialogue between Arjuna (a hero from the Mahabharata) and his charioteer Krishna (an avatar of Vishnu)
+		- Krishna analyzes the various religions in terms of the deed (karman)
+			- Vedic priest seeks salvation through sacrifice which binds him to the wheel of Rebirth
+			- the ascetic renounces the deed but cannot fully escape the deed for he must breathe and eat
+			- The way to escape the consequences of the deed is to renounce the desire for the fruits of the deed while continuing to perform one’s duty in society (like Buddhism which urges the suppression of desire behind action, not of action)
+			- The Gita urges people towards society, to meet social obligations with inward detachment
+			- Krishna shows how through devotion to God, even the lowest receive grace and are saved
+	- Positioned like this it can be seen as a third stage in Indian religion but the roots of this type of deity worship extend further back possibly to the Indus Civilization 
+		- Devotionalism has been around it just achieves a higher regard from the elites at this time 
+			- Literate elites like the brahmins wrote it down in Sanskrit meaning that this is when we can see it’s growth but it was already growing
+	- Hinduism is a result of the combination of brahmin learning and popular devotionalism. this is when Vishnu and Shiva become the two main gods
+		- Vishnu through his “descents” or avatars, is used to syncretize other religions in, universalizing them.
+			- Fish, Tortoise, Boar, Man-Lion, Dwarf, Rama of the Axe, Rama king of Ayodhya, Krishna the Dark, the Horse, even the Buddha
+		- Shiva in the form of the phallic image (linga) or as Lord of Yogis or Lord of Beasts, or the members of his household also absorb local religious practices
+			- the Mother Goddess (Devi, Durga) wife
+			- the warrior Skanda (who the Tamil Murugan is identified) son
+			-  Elephant-headed Ganesha son
+	- The popularity of devotional Hindu sects provoked a similar change in some of the religions of renunciation
+		- The Buddhist sects of the Great Vehicle (Mahayana) introduce grace as Bodhisattvas (Buddhas-to-be) who bestow their surplus merit on those who pray to them
+		- Even sects that are more strict the devotional impulse shows up in the adoration of images and sacred places of pilgrimage
+			- pejoratively called Hinayana or Little Vehicle by their opponents, but are called Therevada or Doctrine of the Elders in current scholarship following Sri Lankan usage
+### The Classical Age
+-  in 320 CE #timeline Gangetic Magadha was the center of the Gupta dynasty 
+	- *Chandra Gupta I* was named after *Chandragupta Maurya*
+	- Had much more decentralized power than Mauryan times
+	- under the Guptas art, letters, and manners achieved classic definition
+	- Kingship became more distant and had a more god-like aspect
+	- The king was urged to submit his power to the higher authority of the brahmin and interfere less with the lives of his subjects than Ashoka
+- **The Guptas** (320-550 CE) Timeline
+	- *Chandra Gupta* Great King over Kings
+		- His reign was likely commenced in 319-320 CE #timeline 
+	- *Samudra Gupta* son of *Chandra Gupta* expanded the empire through war
+		- He annexed pretty much all the petty states along the Ganga and Yamuna river
+		- Bengal, Assam, and Nepal as well as the western tribal oligarchies were forced to pay tribute
+		- an expedition down the east coast reached the Pallava Kingdom of Kanchi (Kanchipuram) in Tamil Nadu
+	- The *Guptas* didn’t intend to permanently rule the southern kingdoms
+		- according to the court poet *Samudra* “conquered and then released” the southern kings to gain glory 
+		- kings of Sri Lanka and the Indo-Iranian borderland sent gifts, to vie for Gupta charters confirming they kept their territory as vassals to the *Guptas*
+		- ^ That may be an exaggeration by *Samudra Gupta*
+	- Kings now display their patronage and participation in courtly poetry, music, and other fine arts
+		- Coins of this period represent Samudra embodying both warrior virtues and artistic refinement, both killing a lion with a bow and arrow as well as playing a stringed instrument, 
+		- These two virtues along with support of religion and mindfulness of dharma make up the classical ideal for kingship
+	- *Chandra Gupta II* son of *Samudra* grandson of *Chandra Gupta I*
+		- Put an end to the 3 centuries of Shaka (**Western Kshatrapa**) rule in western India
+		- Brought most of north India under Gupta suzerainty by 400 CE (the middle of his reign)
+		- Although their rule didn’t extend south onto the peninsula the prince of the Vakataka kingdom in the upper peninsula married Chandra Gupta’s daughter
+			- This daughter *Prabhavati Gupta* became the regent of Vakataka when the prince died.
+	- *Faxian*, a Chinese Buddhist monk from the 5th century journeyed to collect accurate copies of the scriptures
+		- He left a memoir of this travels, that paints a version of India in *Chandra Gupta II’s* time that is close to his own ideals
+			- People are prosperous and happy, the state does not register them or regulate their travel
+			- there is no corporal punishment of criminals (or at most cutting of a rebels right hand on the second offence)
+			- Vegetarianism has progressed such that the monk didn’t see animals slaughtered for food, and only low caste hunters sold meat
+			- He even claims people didn’t eat onions or garlic, or drink wine (likely only true of some of the higher classes)
+			- He does also note the segregation of the untouchables
+				- They must beat a piece of wood when they approach a city or market so people can avoid them
+			- The wealthy have build Buddhist monasteries and free hospitals for orphans, widows, and cripples
+	- During the rule of *Chandra Gupta II* (376-415) #timeline  and his son *Kumara Gupta I* (415-455) #timeline India was prosperous while Central Asians caused trouble everywhere else
+		- Xiongnu in China, Huns in Rome, Ephthalites or Hephthalites in Sassanian Iran
+	- *Skanda Gupta* (455-470) #timeline son of *Kumara Gupta* takes credit for fighting off the Hunas
+	- A second wave of Hunas from 500 CE established a nomad empire from the northwest that reached deeply to central India
+		- Gupta vassals in its path switched sides to the nomads and those that were cut off declared their independence
+		- some eastern provinces in Bengal and Orissa as late as 570 #timeline maintained suzerainty 
+		- This second wave caused the break up of the empire 
+	- Huna rule lasted in the west and the northwest at least till 600
+		- They seem to be integrated into Hindu Military society as Rajputs
+	- The nature of the Gupta Empire was a gradient of control, where some areas were ruled over much less than others
+		- The Gangetic lands were the core where *Samudra* had deposed the indigenous kings
+		- around the core, states were obligated to pay tribute, follow commands, and renew their loyalty by personal attendance at the imperial court.
+			- They still handled their own internal affairs
+			- As *Gupta* rule recedes eastward in the 6th century #timeline independent kings show up in regions that were previously tribal
+		- In the Kathiawar peninsula and Bengal, the western and eastern extremes, the *Guptas* appointed their own governors to administer and tax
+			- because the govenorshi8ps were often hereditary these two provinces, became roughly semiautonomous tributary states
+			- The generals of Kathiawar became kings when Gupta power faded
+			- the governors of Bengal still reported to the Guptas until late in the 6th century #timeline 
+- **Classical Indian State and Society**
+	- Economic basis of the state was the kings share in productivity, he protected and so he claimed a portion of the crop usually set at ⅙th
+	- Farmers were more scares than land, so a wise king would support immigration by granting land and supporting new farmers
+	- Although Indian kingship was only reviewed by the powers that be, a peasant could still “vote with his feet” and leave, so the kings behaved
+	- The king was also entitled to ⅙th of the ascetic’s religious merit, so they supported the religions
+		- Royal grants transferred the king’s share to the religious guarantee, and private citizens who wanted to gift land to religious institutions would have to buy out the king’s interest
+		- Because religious land was not taxed it was forbidden for peasants to move there
+		- Religious grants were inscribed on copperplates that stated what the grantee got
+		- these Grants were so favorable that sometimes the copperplate charters were forged
+	- Grants to nonreligious officials were written on perishable materials and may have passed from father to son. 
+		-  they were revokable by the king unlike the religious grants that lasted "as long as the moon and the sun endure."
+		- They also didn’t always revoke taxes as revenue was tied directly to land
+	- Royal governors would be assigned the revenue of certain villages as their salary allowing for a large amount of intermediaries without having to have the royal treasury pay salaries.
+	- Most revenue came from farming but other subjects were taxed as well with exact tolls and excise taxes
+	- Markets were standardized and policed for fraud
+	- Interest rates and contracts were locally controlled unless a dispute was sent up to the king
+	- When prices went too far astray the king would intervene, making royal markets and forbidding private trade to protect people against shortage or the merchants against market gluts
+	- Behaviour was regulated by the caste system more than the state
+		- Each cate had its occupational specialty and its place in the religious hierarchy
+		- The Brahmins were kept pure and the lower casts took on the burden from them
+		- The castes were interdependent but kept apart by rules limiting contact
+			- rules forbid marriage between castes, as well as dining or even physical proximity between different classes to maintain the purity difference
+		- Each caste was policed by a local council of elders, that could punish offenders with fines and penances, or permanent expulsion from the caste
+	- Castes are not unchanging, they are constantly moving, the system is relatively unchanging though in the way it creates the purity hierarchy
+	- The Sanskrit law books (Dharmashastras) may be responsible for the idea of unchanging cates, as they set the four orders (varnas) of Vedic society which are outdated at this point
+	- The Indian king was the caretaker of a social order that he did not create.
+		- Kings were the supreme arbitrator of disputes
+			- the judgement of the king or the brahmin judges he delegated to was based on four sources
+				- The sacred law (dharma)
+				- The Immemorial customs of clans and castes
+				- the usages of the marketplace
+				- The royal edict reflecting the needs of the state
+			- Dharma was the one held with the highest prestige, with extensive literature going back to the Dharma Sutras of the Veda
+				- Followed by the more systematic Dharma Smritis which started with the Laws of Manu
+				- The composition of smritis stopped by about 600 CE #timeline 
+				- they were followed by a period of time where commentaries and digests on the sutras and smritis were composed, which lasted well int o19th century British rule
+			- The point of these pieces of literature was to determine the unchanging religious duty (dharma)
+				- Dharma can be discovered through four ways 
+					- Revelations (shruti, the Vedic literature)
+					- Tradition (smriti, the Dharma Smritis)
+					- the behavior of virtuous men
+					- one’s own conscience
+	- The king had to make sure that people performed according to their caste and station of life (varnashrama-dharma)
+	- Local custom was usually held higher but when there was a conflict the king had final say
+	- The rule of the king was unchecked and gradually had more and more divinity attributed to it
+		- rather than divine right an Indian king was a god
+			- Inscriptions of Samudra Gupta describe him as equal to Kubera god of wealth, Varuna, dispenser of justice, Indra, god of war, and Yama, god of death
+	- The power was limited in two ways
+		- supernatural sanctions
+			- brahmin priests and scholars of dharma were also considered gods on earth and incarnated the sacred principal (brahma) from which royal power rose (kshatra) so royal power should join with brahmin authority
+			- This meant the king had to follow holy law and the advice of learned brahmins
+		- practical limitation and tradition
+			- these limited how much a king could interfere in life
+			- the recognized duty of the king was to punish the wicked, protect the good, direct men to their appropriate duties (varashrama-dharma) and keep the castes separate
+			- The classical king should not overstep as Ashoka did
+			- The king could only intervene with decisions of cate, village, or guild if they brought the dispute to him
+			- the king could only do judicial proceedings where the interests of the state were directly concerned
+
+### Late Classical Indian Civilization
+
+- **Kingdoms and Empires**
+	- first half of 7th century #timeline  *Harsha*, prince of Thaneswar (near Delhi) made an empire from the eastern Punjab to Bengal and Orissa with allies in Kathiawar and Assam
+		- didn’t last after his death in 647 #timeline 
+		- had little in terms of lasting effects
+		- Large city Kanyakubja (Kanauj)
+		- The poet *Bana* wrote The deeds of Harsha, and a Chinese Buddhist monk *Xuanzang* wrote a memoir called Travels to the Western world
+			- Because of these we have more detail about *Harsha*’s kingdom than other ancient Indian kingdoms
+		- *Harsha*”s empire was made of conquered king who paid tribute, gave military aid and had to attend court it was relatively feudal
+			- The imperial army was a collection of smaller armies so it moved very slowly but with much pomp
+		- *Xuanzang* says that apart for the rainy season Harsha was always on tour, and always working very very hard
+	- Apart from *Harsha*’s empire the late classical period had an international order that was dominated by a few large regional kingdoms
+		- The middle Ganga was the prize that the Hindu princes competed for, and the Turkish Muslims after them
+	- In 647 #timeline *Wang Xuance* ambassador to *Tang Taizong* made it to *Harsha*’s domain to find that a minister *Arunashva* had taken the throne
+		- *Wang* assembled an army from kings in Assam and Kashmir and attempted to control the region, unsuccessfully
+	- In the middle of the 8th century #timeline two major powers emerged
+		- Gurjara-Pratiharas from the western desert of Rajasthan 
+		- The Palas of the eastern Ganga 
+			- For 2 centuries contested the middle Ganga and effectively divided it between them
+	- The Palas lost Kanyakubja to their rivals in ~800 #timeline and were confined to Bihar and Bengal where they ruled until the end of the 11th century #timeline 
+		- The Palas were great patrons of the Tantric form of Buddhism which flourished in eastern India during their rule then spread to Tibet
+		- Pala sculpture also left a mark on Southeast Asian countries they had relations with.
+	- From as early as 550 CE #timeline the Rajput dynasties began to rise, starting in the Rajasthan desert
+		- The Rajput remain the dominant elite of the region today
+		- Their proximity to the Huna suggests they may be Indianized Central Asians but some members are definitely indigenous
+	- Rajput patrilineages show a tendency toward fragmenting political authority along kinship lines, in a way that mimics nomadic organization
+	- Of the three early Rajput lines we have records for there are 
+		- The Gurjaras divided into four branches by 650 #timeline 
+		- The Chahamanas divided into 8 or 9 branches by 1000 #timeline 
+		- Only one branch of the Gurjaras, called the Pratiharas (gatekeeper) succeeded in establishing an empire through alliance with other Rajput chiefs
+			- The Gurjara-Pratiharas created the only Rajput empire which conquered Kanauj becoming a central Gangeic power
+			- They held together from 750-960 #timeline 
+			- they succeeded in making bureaucracy and military strength to stabilize
+			- They kept the Muslim power to the Indus region where Arabs had reached by 712 #timeline 
+			- Their empire broke up in the 10th Century #timeline  
+	- In the Peninsula during this era two centers of power sprung up
+		- Upper western Deccan was under the *Chalukyas of Badami* in *Harsha*’s time and *Pulakeshin II* prevented *Harsha* from conquering them
+			- Chalukyas were overthrown by the Rashtrakutas who raided the Ganga several times
+				- They contested Ujjain (an important trade hub between the Ganga and west) with the Gurjara-Pratiharas
+				- They also fought the Pallava and Chola rulers of Tamil
+			- By the end of the 10th century #timeline Rashtrakutas were replaced by the *Chalukyas* who came back and unified the upper Deccan 
+				- They ruled until the end of the 12th century #timeline when it broke up into successor states
+		- In the Tamil country the Pallavas had ruled the Coromandel Coast since the time of *Samudra Gupta* 
+			- we know because a *Samudra* expedition reached their capital of Kanchi
+			- They left beautiful monuments like the sculptures of Mahabalipuram and the shore temple
+			- In 9th century #timeline a vassal lineage with the name Chola from one of the three ancient Tamil kingdoms founded an empire
+				- They reached their peak in 11th century and lasted into the 13th #timeline 
+				- The two great kings of the Chola were
+					- *Rajaraja* (985-1014) #timeline 
+						- Invaded Sri Lanka, claiming the northern part
+					- and his son *Rajendra I* (1014-1042)
+						- Reached the eastern Ganga
+						- Sacked the costal cities of the Malay peninsula and Sumatra
+				- Chola stone temples are plentiful and some are still used
+	- In the post-Gupta period India was divided in to about 5 regions, each compteing constantly trying to enlarge, but the pattern was roughly stable
+		- Average reign length was about 20 years
+#### Post Gupta regions from the map
+- The Indus
+	- Arabs
+	- Turks
+- The Doab
+	- Harsha
+	- Gurjara-Pratiharas
+- Bengal
+	- Palas
+	- Senas
+- The Deccan 
+	- Chalukyas
+	- Rashtrakutas
+	- Later Chalukyas
+- South India (east coast)
+	- Pallavas
+	- Cholas
+## Chapter 9 Turks and Mughals
+Islam and India, Turks, Mughals
+- India’s long history of connection to Central Asia
+	- Aryans in 2000 BCE
+	- Shakas, Pahlavas, Kusanas around the common era spoke Iranian languages
+	- Hungas from 450 were Turkic speakers
+	- Many were absorbed into the warrior class of India
+	- Turks established their rule of Delhi in 1206 #timeline 
+		- Mughals from 1526 #timeline
+		- Both were heavily focused on cavalry so they imported horses
+- Turks and Mughals were the continuation of the pattern of invasions that was already established in India
+	- Turks and Mughals were Muslim, and through that part of the umma (Muslim community)
+	- This community brough Iranian scholars, scribes, artists, and fighters into their Indian versions, creating a composite Indo-Persian cultural character
+- Turkic states were not Muslim states they were Indian states with parts that were Central Asian, Iranian and Islamic, as well as Indian
+- Up to the creation of nation-states in 1947 India had the largest Muslim population in the world
+	- even greater than the middle eastern countries where Islam started
+	- Religious identify acquired significance when the British split Pakistan and India along a Muslim/Hindu line
+- Pakistan was made of two “wings” when it was first made by the British
+	- East Pakistan split in 1971 and became Bangladesh #timeline 
+	- West Pakistan is what we know as Pakistan now
+- The 3 parts (Bangladesh, Pakistan, and India) are 2nd 3rd and 4th largest Muslim populations (1st is Indonesia)
+- Because of the importance of religion in modern politics people are likely to project that on past India and miss other factors at play
+### Islam and India
+- Before the Turks and Mughals India was introduced to Islam by Arab trade and military expeditions
+	- Arab trade in the red sea, Arab resident traders on India’s west coast were likely the first Muslims living in India as they converted soon after Islam rose in Arabia
+- Islam also launched the Arab empire which reached its furthest eastern point, Sindh, in 711 #timeline about the same time it reached Spain
+- A few paragraphs about Muhammad and the Flight to Medina
+	- Ages #timeline 
+		- Rightly guided caliphs 632-661 
+		- Umayyads 661-750
+		- Abbasids 750-1258 
+	- The Wars of the Apostasy started the military momentum
+	- Non Arabs who were part of the Empire were first only able to become clients (mawali) second-class below Arab Muslims
+	- 4th Caliph moved the capital to Kufa Iraq 
+	- Split of Shias and Shiites
+	- Second Arab conquest under the Umayyads
+	- Sindh was the first state in India to have a Muslim head
+	- Islam acted as a conduit for Indian culture and knowledge to enter the Islamic world, and to a lesser extent, Europe 
+	- Sindh split into two states with Arab rulers  in the lower Indus valley but could not extend further due to the Gurjara-Pratiiharas and their large army
+	- The Abbasid coup was a victory for the mawalis?
+	- Because of the Abbasid’s weak control the eastern wing became the hub of Perso-Islamic culture
+		- This led to Islamic literature in Persian language written in modified Arabic script
+		- This led to a Persianized form of Islamic culture that would enter North India with the Turkish invaders
+### Turks
+- Turkic language family includes these people
+	- Azeris, Kazakhs, Kyrgyz, Turkmen, Uzbeks
+	- Which give their names to these countries
+	- Azerbaijan, Kazakhstan, Kyrgyzstan, Turkmenistan, Uzbekistan
+- Islam became Turkish through Turkish military slaves that were the guards of the caliphs and other leaders
+- Mamluks are important for India because the first dynasty of Sultans were called the Slave Dynasty
+- By the 14th century there were many mamluk kings #timeline 
+- The rise of Turkish powers took place during the fragmentation of the caliphate in the mid-ninth century #timeline 
+	- Caused by the Mongols who destroyed the Abbasid caliphate in 1258 #timeline 
+- Turkish conquest of North India started in about 1000 CE under *Mahmud of Ghazna* #timeline 
+	- *Mahmud* was a Turkish ruler who settled in Afghanistan and expanded west into Iran and East into India
+	- They did a lot of raiding in the Ganga valley 
+	- Mahmud and his successors were the *Ghaznavids* 
+	- they only extended to the upper Indus Valley to *Lahore* which became an outpost of Perso-Islamic culture in India
+- *Ghaznavids* were replaced by the *Ghurids*
+	- They resumed the conquest of North India by the end of the 12th century #timeline 
+	- used large armies led by Turkish slave generals. 
+	- The Ghurid king was assassinated while the troops were in North India so they raised *Qutb-ud-din Aybak* to be sultan
+		- *Qutb-ud-din Aybak* as the first sultan of Delhi in 1206 #timeline 
+- Turkish sultanate of is best though of as a conglomerate of the Turks, Iranians, and Indians
+	-  Turkish military aristocracy who were the minority but the power holders
+	- no settled culture of succession so there were frequent wars of succession
+	- The reign length halved from previous Indian kings, going from 20yrs to 10 
+	- Dynasties were short lived (6 in 320 years) compared to the past
+	- Regime was highly dependent on military force and paid them a lot to prevent coups
+- The Iranian element was important because it acted as a middle man allowing them to recruit Indians as administration and assimilate
+- The fall of the Abbasids at the hand of the Mongos led to more Iranians going to Delhi because the sultans were famous for their wealth and generosity
+	- This provided many Iranians literate in Persian who could do important work
+	- This resulted in Persian becoming the language of government and diplomacy going into the early 19th century 
+	- Many more Persian language texts are composed in India then Iran because of the size difference
+- The Indian people were the largest of the three so the Turkish sultanate depended on them
+	- The civil government was Persian styled but needed large numbers of Literate Indian scribes to deal with the land
+	- The Sultanate needed large amounts of money to sustain the gift giving so taxation became much more extractive
+		- In the ancient period the king’s share was usually ⅙, under the Turkish sultans it sometimes rose to ½ 
+	- To raise the land tax they had to work with local Indian officials, generally the Hindu rajas were in charge of their district’s revenue
+	- Hindu society and its traditional leadership continued, the top of the pyramid was just Turks and Iranians
+		- This was more focused in the Doab or the land between the Ganga and Yamuna
+			- outside of that they still paid tribute to Delhi though
+- Hinduism continued to be the popular religion of the country side while Islam grew as a mostly urban phenomenon
+	- In Islamic cities there were scholars of Islamic law and learning (the Ulama) who were worried about Islam being contaminated by Hinduism
+	- The Ulama supported the kingship.
+	- Sufi organizations and craft guilds controlled city life
+	- This did not help with converting large amounts of India to Islam
+- *Richard Eaton* shows that conversion by direct force or destruction of Hindu temples only occurred in the path of conquest or as a kind of exemplary punishment for stubborn resistance
+	- Once the territory was conquered they couldn’t do this because they were outnumbered
+	- Sultans had no policy of forced conversion, they considered the Indians as dhimmis (adherents of tolerated religions) allowing them freedom of religion
+		- Provided they submitted to the sultan and paid taxes
+		- This meant that bulk conversion would cause a loss of tax revenue
+	- Mass conversions didn’t occur in the central territories but at the edges in the Indus Valley and Bengal.
+		- According to Eaton this happened in Bengal because of large grants of land to Muslim entrepreneurs and Sufi shrines as part of a pioneering process to spread agriculture into the forestlands (similar to monastic estates in Europe)
+		- The Indians were drawn towards Sufism specifically
+			- It had practices of devotionalism that were similar to bhakti Hinduism
+			- The renunciation and mysticism of Sufi teachers had a general likeness to yoga. 
+			- Many Sufis appear in Indian folklore as holy men just like yogis and medicants of other Indian religions
+- The history of the Sultanate of Delhi can be split into stages
+	- First 100 years Building and consolidating the kingship in north India 
+	- 1300-1350 Sultans extend their power to the Deccan, extracting a lot of wealth they used to maintain the Turkish military aristocracy and Iranian scholarly class
+		- This was the high point of the sultanate, but also the decline as they ran out of extractable resources from the Deccan
+	- 1350-1398 Period of retrenchment and attempting to find a style of rule that promotes agriculture rather than hurts it
+	- 1398 *Timur* is here, 
+		- North India is invaded, Delhi is sacked and its artisans are taken to build a mosque in Samarkand for Timur
+	- Century of decline after *Timur*
+		- many provincial sultanates are formed by breakaway military men in Bengal, Kashmir, Punjab and elsewhere. The kingdom of Vijayanagara was formed in the South
+		- These provincial sultanates are where Islam became acclimated to Indian culture and are where Islam is still popular today
+- Vijayanagara, was the capital and the name of the empire formed in the dry interior of the peninsula by a new warrior class that was created as agriculture moved to the dry region as *Cynthia Talbot* showed
+	- It dominated the territories of South India through governors
+	- Kings were Hindu but structure was cosmopolitan
+	- used Muslim artillerymen and traded with Portugal for war horses
+- Three major powers of the day 
+	- Sultan of Delhi: Ashvapati, lord of horses
+	- King of Orissa: Gajapati, Lord of elephants
+	- Vijayanagara emperor: Narapati, Lord of men
+	- This triangle of major states was the international order at the time, showing the Turkish kings of Delhi were normalized
+- *Philip Wagoner* shows that the kings of Vijayanagara adopted the cap and robes of Turkish kings as the normal diplomatic dress
+### Mughals
+-  dominated the history of India for the better part of two centuries and lingered for another 150 years
+- were more successful than any of the dynasties of the Delhi sultanate (the longest lived was only 90 years)
+- Their success was mainly due to a more cosmopolitan policy that gave more places in government to Indians
+- Mughal emperors fulfilled their role as Indian kings by participating in Hindu ceremonies and observances
+	- The festival of lights (Diwali)
+	- the weighing of the ruler in gold, which was then given away in alms
+	- Ritual feeding of the brahmins 
+	- “giving darshan” or showing the royal self to the public regularly
+	- the patronage of religious scholarship and literature, including translations of the Ramayana and Mahabharata
+- They left many architectural works
+	- The Red Fort in Delhi
+	- the Taj Mahal in Agra
+- Mughals trace their descent from *Chingiz Khan* and *Timur* 
+- *Babur* laid the foundation of Mughal ascendancy had a very modest patrimony, only a small territory in Ferghana in Central Asia
+	- He failed 3 times to capture Samarkand (Timur’s previous capital) then went south, creating a state straddling the Hindu Kush. similar to the *Kushanas* or *Hunas*
+	- Successive Mughals lost ground in Central Asia as they extended into India
+- Gunpowder warfare was in India before *Babur* but he was good at artillery giving him an advantage at the Battle of Panipat in 1526 where he defeated the Sultan of Delhi #timeline 
+- He also had the advantage of a surplus of horses and cavalrymen
+- Although he beat the Sultanate the Turkish nobility and Rajput warrior lineages were resistant
+- After *Babur* died his sun *Humayun* was thrown out of India by *Sher Shah of the Suri family* who then revived the sultanate for 5 years before he accidentally blew up
+	- The difficult succession let Humayun back in after 15 years of exile and he restored Mughal rule with help from the *Persian king*
+- *Akbar* was the greatest of the Mughal rulers according to *Brown*
+	- He consolidated the empire, secured north India and got sea access on the west coast
+	- He also established the cosmopolitan policy
+		- Officers of the government held a mansab (a rank) that bound them to supply men and horses to the military service
+		- In tern it allowed them to draw revenue from some of their lands  (called a jagir) that would maintain the force by the mansab-holder or mansabdar
+		- Akbar arranged the ranks in 33 grades from commanders of ten to ten thousand and the higher ranks were members of the royal family
+		- Imperial service was opened to Hindus and a point was made of including Rajput warrior lineages in government and marriage alliances 
+		- The mansabs and everything that went with them were not hereditary, it was meant to prevent an aristocracy
+		- Because of the non hereditary nature Mughal officeholders could not pass on their estates so they spent their fortunes on elaborate tombs
+	- Akbar also explored the content of the many religions, he was strongly attached to Sufi Islam, or at least it’s monastic form 
+	- He had a royal seminar of comparative religion scholars to ask them all questions, and believed that there was something good in all of them
+	- He retained Islam and formed an imperial circle of discipleship known as the Din-i-Ilahi or “Divine Faith”
+		- it was a devotional practice made up of elements of Islam and other religions, plus ideas of sacral kingship
+		- The nature of this mirrored the ethnic cosmopolitanism of the empire. 
+	- Akbar also abolished the poll tax on non Muslims (the jizya)
+- The reigns of *Jahangir* and *Shah Jahan* saw a continued increase in Mughal power
+	- Kandahar in Afghanistan was lost to the Persians in 1622 #timeline confining the Mughals to India
+	- *Shah Jahan* built the Taj Mahal
+	- With the growth of European trade silver rupee coins were made with silver from the new world
+- Mughal India was a part of the larger world that Islam had build, and part of the larger one that was coming into existence
+- In the later years of *Shah Jahan* his four sons were at war
+	- The main antagonists were *Dara Shukoh* and *Aurangzeb*
+	- *Dara Shukoh* was the choice for succession and was interested in all religions,
+	- *Aurangzeb* was a more pious and austere devotee to Sunni Islam, even banishing music in the court
+- *Aurangzeb* won the contest and ruled for 58 years
+	- he conquered many of the smaller states of the Decan 
+	- After his death Mughal power shrank 
+- Why did the Mughal’s power shrink?
+	- Some argue it was becuae *Aurangzeb’s* foorm of Islam made him withdraw from the cosmopolitan policies of his predecessors
+	- This does not account for the large numbers of Hindus in the Mughal service, including leading generals. and the fact that Auranzeb still supported non -Muslim religious institutions
+	- The Sikhs, who Akbar had given land, were not fans of the Mughals and were full enemies when *Aurangzeb* killed the ninth guru, *Teg Bahadur* 
+		- His son *Guru Govind* made the Sikhs a anti-Mughal military force.
+	- The Maratha peasantry of Maharashtra under *Shivaji* became a major continental power, picking up the parts of the Mughal Empire because *Aurangzeb* had not been a good ally to them
+	- They declined more because of missed opportunities than Aurangzeb’s religious tendencies ?
+- While the north was leaving Mughal power, the Mughals were successful in the Deccan, making the provincial sultanates into Mughal subah (province)
+	- However the governor *Aurangzeb* put in charge quickly became independent and stated the dynastic line of the *Nizams of Hyderabad* who ruled until the 1940s #timeline 
+- After the death of *Aurangzeb* the mughals declined to Delhi and Agra, and they remained in a weakened form
+- in 1857-1858 a rebellion of British-Indian solders grew to a large insurgency to kick the British out.
+	- It’s notable that they rallied around the Mughal emperor in Delhi, showing the beleif that the Mughals were legitimate and the British were not. 
+- Ismaili missionaries told Indian converts at the fourth caliph *Ali* was the tenth avatar of Vishnu
+- 
+#### First six Mughals
+- Babur 1526-1530 #timeline 
+- Humayun 1530-2556 #timeline 
+- Akbar 1556-1605 #timeline 
+- Jahangir 1605-1628 #timeline 
+- Shah Jahan 1628-1658 #timeline 
+- Aurangzeb 1658-1707 #timeline 
