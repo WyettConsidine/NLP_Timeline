@@ -80,7 +80,7 @@ def sort_dateline_output ( datelines):
     newlist.sort()
     return newlist
 
-ret = read_markdown_file_denoted_withDates(r"C:\Users\wyett\OneDrive\Documents\EvanNLP\TextData\Trautmann.md")
+ret = read_markdown_file_denoted_withDates(r".\TextData\Trautmann.md")
 ret = sort_dateline_output(ret)
 for line in ret:
     #print(line)
