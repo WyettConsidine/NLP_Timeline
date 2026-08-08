@@ -69,7 +69,10 @@ def write_to_JSON(FileName, lines):
     for line in lines:
         if line[0] != []:
             dictLines.append({"Date":str(line[0][0]),"File":line[1],"Text":line[2] })
-    s = json.dumps(dictLines)
+    js = json.dumps(dictLines)
+    with open(FileName, "w") as f:
+        json.dump(js, f, indent=4)
+    print('Json written to file ' + FileName )
 
 def get_dates_from_line(line, sortbydate = 0):
     string = line.split('-')
@@ -99,7 +102,7 @@ def main():
         #print(line)
         if line[0] != []:
             print(str(line[0][0]), line[1], line[2])
-
+    write_to_JSON(r".\JSON_Output\TrauntTest.json", ret)
 
 if __name__ == "__main__":
     main()
