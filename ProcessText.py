@@ -34,10 +34,24 @@ def read_markdown_file_denoted_withDates(filepath):   #make function with input 
         for line in lines_list:
             if '#timeline' in line:
                 nline = line.replace('\t','').replace('\n','').replace('#timeline','')
-                dateline = get_dates_from_line(nline) #dateline consissts of the date and then the string
+                dateline = get_dates_from_line(nline) #dateline consists of the date and then the string
                 timelineList.append((dateline, filename)) #creates a list of tupples where each part of the list is dateline (date+string) and the filename
     return timelineList
 
+# My mistake
+def read_markdown_file_complete_dictionary(filepath):   
+    filename = filepath.split('\\')[-1] # set variable: filename, to be the final segment of the file path (the file name)
+    timelineList = [] # Create the timelineList that we will now be filling
+    with open(filepath, 'r', encoding="utf-8") as f: # Sets the method for opening the files
+        lines_list = f.readlines() # reads the lines given to it by the above row and puts them into the lines_list
+        for line in lines_list: # for each line it does the following
+            if '#timeline' in line: # Only does things to lines including #timeline
+                nline = line.replace('\t','').replace('\n','').replace('#timeline','') # Deletes the tabs, newlines, and #timeline and returns a cleaned nline
+                #dateline = get_dates_from_line(nline) #dateline consists of the date and then the string
+                date = get_dates_from_line
+                timelineList.append({"Date":date,"File":filename,"Text":nline}) 
+
+# Get all files from a given directory
 def get_all_files(dirPath):
     files_list = []
     for entry in os.listdir(dirPath):
@@ -97,13 +111,16 @@ def sort_dateline_output ( datelines):
 
 
 def main():
-    ret = read_markdown_file_denoted_withDates(r".\TextData\Trautmann.md")
-    ret = sort_dateline_output(ret)
-    for line in ret:
-        #print(line)
-        if line[0] != []:
-            print(str(line[0][0]), line[1], line[2])
-    write_to_JSON(r".\JSON_Output\TrauntTest.json", ret)
+    ret = read_markdown_file_complete_dictionary(r".\TextData\Trautmann.md")
+    #ret = sort_dateline_output(ret)
+    for line in timelineList:
+        print(line)
+    #     if line[0] != []:
+    #         print(str(line[0][0]), line[1], line[2])
+    # write_to_JSON(r".\JSON_Output\TrauntTest.json", ret)
+
+
+   
 
 if __name__ == "__main__":
     main()
