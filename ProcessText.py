@@ -4,7 +4,7 @@ from dateparser.search import search_dates
 
 
 
-
+# Find and clean the lines in a markdown file that contain the tag #timeline. Remove both the tag as well as the formatting in the original, so it is clean and ready to process
 def read_markdown_file(filepath):   #make function with input parameter filepath
     timelineList = []
     with open(filepath, 'r', encoding="utf-8") as f: 
@@ -13,7 +13,7 @@ def read_markdown_file(filepath):   #make function with input parameter filepath
             if '#timeline' in line:
                 timelineList.append(line.replace('\t','').replace('\n','').replace('#timeline',''))
     return timelineList
-
+# 
 def read_markdown_file_denoted(filepath):   #make function with input parameter filepath
     filename = filepath.split('\\')[-1]
     timelineList = []
