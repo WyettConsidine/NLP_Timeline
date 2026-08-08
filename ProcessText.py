@@ -2,11 +2,9 @@
 import os
 from dateparser.search import search_dates
 
-import json
 
 
-
-# Find and clean the lines in a markdown file that contain the tag #timeline. Remove both the tag as well as the formatting in the original, so it is clean and ready to process
+# Most Basic NLP no longer used
 def read_markdown_file(filepath):   #make function with input parameter filepath
     timelineList = []
     with open(filepath, 'r', encoding="utf-8") as f: 
@@ -15,9 +13,9 @@ def read_markdown_file(filepath):   #make function with input parameter filepath
             if '#timeline' in line:
                 timelineList.append(line.replace('\t','').replace('\n','').replace('#timeline',''))
     return timelineList
-# 
+# basic NLP that adds the file name from the path into the line list
 def read_markdown_file_denoted(filepath):   #make function with input parameter filepath
-    filename = filepath.split('\\')[-1]
+    filename = filepath.split('\\')[-1]  # set variable: filename, to be the final segment of the file path
     timelineList = []
     with open(filepath, 'r', encoding="utf-8") as f: 
         lines_list = f.readlines()
@@ -26,7 +24,7 @@ def read_markdown_file_denoted(filepath):   #make function with input parameter 
                 timelineList.append((line.replace('\t','').replace('\n','').replace('#timeline',''), filename))
     return timelineList
 
-
+# Same as the above two but also uses the below functions to get the dates and add them 
 def read_markdown_file_denoted_withDates(filepath):   #make function with input parameter filepath
     filename = filepath.split('\\')[-1]
     timelineList = []
@@ -35,8 +33,8 @@ def read_markdown_file_denoted_withDates(filepath):   #make function with input 
         for line in lines_list:
             if '#timeline' in line:
                 nline = line.replace('\t','').replace('\n','').replace('#timeline','')
-                dateline = get_dates_from_line(nline)
-                timelineList.append((dateline, filename))
+                dateline = get_dates_from_line(nline) #dateline consissts of the date and then the string
+                timelineList.append((dateline, filename)) #creates a list of tupples where each part of the list is dateline (date+string) and the filename
     return timelineList
 
 def get_all_files(dirPath):
@@ -62,17 +60,7 @@ def write_to_txt(fileName, lines):
     with open( fileName, "w") as file:
         for l in lines:
             file.write(l + '\n')
-
-
-def write_to_JSON(FileName, lines):
-
-    dictLines = []
-
-    for line in lines:
-        if line[0] != []:
-            dictLines.append({"Date":str(line[0][0]),"File":line[1],"Text":line[2] })
-    s = json.dumps(dictLines)
-
+# Useing dateparser to get the dates from the string
 def get_dates_from_line(line, sortbydate = 0):
     string = line.split('-')
     dates = []
@@ -92,22 +80,12 @@ def sort_dateline_output ( datelines):
     newlist.sort()
     return newlist
 
-
-
-def main():
-    ret = read_markdown_file_denoted_withDates(r".\TextData\Trautmann.md")
-    ret = sort_dateline_output(ret)
-    for line in ret:
-        #print(line)
-        if line[0] != []:
-            print(str(line[0][0]), line[1], line[2])
-
-
-if __name__ == "__main__":
-    main()
-
-
-
+ret = read_markdown_file_denoted_withDates(r".\TextData\Trautmann.md")
+ret = sort_dateline_output(ret)
+for line in ret:
+    #print(line)
+    if line[0] != []:
+        print(str(line[0][0]), line[1], line[2])
 
 
 
