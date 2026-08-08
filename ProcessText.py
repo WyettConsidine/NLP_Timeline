@@ -2,6 +2,8 @@
 import os
 from dateparser.search import search_dates
 
+import json
+
 
 
 # Find and clean the lines in a markdown file that contain the tag #timeline. Remove both the tag as well as the formatting in the original, so it is clean and ready to process
@@ -61,6 +63,16 @@ def write_to_txt(fileName, lines):
         for l in lines:
             file.write(l + '\n')
 
+
+def write_to_JSON(FileName, lines):
+
+    dictLines = []
+
+    for line in lines:
+        if line[0] != []:
+            dictLines.append({"Date":str(line[0][0]),"File":line[1],"Text":line[2] })
+    s = json.dumps(dictLines)
+
 def get_dates_from_line(line, sortbydate = 0):
     string = line.split('-')
     dates = []
@@ -80,12 +92,22 @@ def sort_dateline_output ( datelines):
     newlist.sort()
     return newlist
 
-ret = read_markdown_file_denoted_withDates(r".\TextData\Trautmann.md")
-ret = sort_dateline_output(ret)
-for line in ret:
-    #print(line)
-    if line[0] != []:
-        print(str(line[0][0]), line[1], line[2])
+
+
+def main():
+    ret = read_markdown_file_denoted_withDates(r".\TextData\Trautmann.md")
+    ret = sort_dateline_output(ret)
+    for line in ret:
+        #print(line)
+        if line[0] != []:
+            print(str(line[0][0]), line[1], line[2])
+
+
+if __name__ == "__main__":
+    main()
+
+
+
 
 
 
