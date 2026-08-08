@@ -50,6 +50,7 @@ def read_markdown_file_complete_dictionary(filepath):
                 #dateline = get_dates_from_line(nline) #dateline consists of the date and then the string
                 date = get_dates_from_line
                 timelineList.append({"Date":date,"File":filename,"Text":nline}) 
+    return timelineList
 
 # Get all files from a given directory
 def get_all_files(dirPath):
@@ -113,11 +114,11 @@ def sort_dateline_output ( datelines):
 def main():
     ret = read_markdown_file_complete_dictionary(r".\TextData\Trautmann.md")
     #ret = sort_dateline_output(ret)
-    for line in timelineList:
-        print(line)
+    # for line in ret:
+    #     print(line)
     #     if line[0] != []:
     #         print(str(line[0][0]), line[1], line[2])
-    # write_to_JSON(r".\JSON_Output\TrauntTest.json", ret)
+    write_to_JSON(r".\JSON_Output\TrauntTest.json", ret)
 
 
    
