@@ -6,24 +6,24 @@ import json
 
 
 # Most Basic NLP no longer used
-def read_markdown_file(filepath):   #make function with input parameter filepath
-    timelineList = []
-    with open(filepath, 'r', encoding="utf-8") as f: 
-        lines_list = f.readlines()
-        for line in lines_list:
-            if '#timeline' in line:
-                timelineList.append(line.replace('\t','').replace('\n','').replace('#timeline',''))
-    return timelineList
-# basic NLP that adds the file name from the path into the line list
-def read_markdown_file_denoted(filepath):   #make function with input parameter filepath
-    filename = filepath.split('\\')[-1]  # set variable: filename, to be the final segment of the file path
-    timelineList = []
-    with open(filepath, 'r', encoding="utf-8") as f: 
-        lines_list = f.readlines()
-        for line in lines_list:
-            if '#timeline' in line:
-                timelineList.append((line.replace('\t','').replace('\n','').replace('#timeline',''), filename))
-    return timelineList
+# def read_markdown_file(filepath):   #make function with input parameter filepath
+#     timelineList = []
+#     with open(filepath, 'r', encoding="utf-8") as f: 
+#         lines_list = f.readlines()
+#         for line in lines_list:
+#             if '#timeline' in line:
+#                 timelineList.append(line.replace('\t','').replace('\n','').replace('#timeline',''))
+#     return timelineList
+# # basic NLP that adds the file name from the path into the line list
+# def read_markdown_file_denoted(filepath):   #make function with input parameter filepath
+#     filename = filepath.split('\\')[-1]  # set variable: filename, to be the final segment of the file path
+#     timelineList = []
+#     with open(filepath, 'r', encoding="utf-8") as f: 
+#         lines_list = f.readlines()
+#         for line in lines_list:
+#             if '#timeline' in line:
+#                 timelineList.append((line.replace('\t','').replace('\n','').replace('#timeline',''), filename))
+#     return timelineList
 
 # Same as the above two but also uses the below functions to get the dates and add them 
 def read_markdown_file_denoted_withDates(filepath):   #make function with input parameter filepath
@@ -47,13 +47,12 @@ def read_markdown_file_complete_dictionary(filepath):
         for line in lines_list: # for each line it does the following
             if '#timeline' in line: # Only does things to lines including #timeline
                 nline = line.replace('\t','').replace('\n','').replace('#timeline','') # Deletes the tabs, newlines, and #timeline and returns a cleaned nline
-                #dateline = get_dates_from_line(nline) #dateline consists of the date and then the string
                 date = get_dates_from_line
                 timelineList.append({"Date":date,"File":filename,"Text":nline}) 
     return timelineList
 
-# Get all files from a given directory
-def get_all_files(dirPath):
+
+def get_all_files(dirPath): # takes a directory and lists all files in it
     files_list = []
     for entry in os.listdir(dirPath):
         full_path = os.path.join(dirPath, entry)
@@ -61,8 +60,7 @@ def get_all_files(dirPath):
             files_list.append(full_path)
     return files_list
 
-
-def read_multi_file(FilePathList, denoted = 0):  
+def read_multi_file(FilePathList, denoted = 0):  # Takes the 
     timelineList = []
     for filepath in FilePathList:
         print(filepath)
@@ -72,7 +70,7 @@ def read_multi_file(FilePathList, denoted = 0):
             timelineList.extend(read_markdown_file(filepath))
     return timelineList
 
-def write_to_txt(fileName, lines):
+def write_to_txt(fileName, lines): # Writes each line of a file used for testing
     with open( fileName, "w") as file:
         for l in lines:
             file.write(l + '\n')

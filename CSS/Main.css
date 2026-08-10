@@ -1,0 +1,13 @@
+div #button {
+    background-color: black;
+    display: block;
+    margin: 15px;
+}
+main {
+    background-color: rgb(185, 245, 245);
+}
+ul {
+    li { 
+        margin-top: 1em;
+    }
+}
