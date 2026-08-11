@@ -3,11 +3,45 @@ div #button {
     display: block;
     margin: 15px;
 }
-main {
-    background-color: rgb(185, 245, 245);
-}
 ul {
     li { 
         margin-top: 1em;
+    }
+}
+.example{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 20em;
+    height: 12em;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    
+    .date{
+        grid-column: 1/ span 2;
+        font-style: oblique;
+        font-weight: bold;
+        font-size: 1.5em;
+        text-align: center;        
+    }
+    .tags{
+        border-left: 2px dashed rgb(80, 20, 20);
+        color: rgb(109, 110, 110);
+        font-size: 1em;
+        padding-top: 0;
+        align-content: center;
+        padding: auto;
+        text-align: center;
+    }
+    .info{
+        text-align: center;
+        justify-content: end;
+        border-top: 3px solid rgb(80, 20, 20);
+        grid-column: 1 / span 3;
+        grid-row: 2 / span 2;
+        padding-right: 5%;
+        padding-left: 5%;
+
+
     }
 }
